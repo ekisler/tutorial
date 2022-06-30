@@ -1,0 +1,20 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "Create bew package an public",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\”Error: no test specified\\” && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekisler/tutorial.git"
+  },
+  "author": "Emisael Kisler",
+  "license": "ISC",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@ekisler" },
+  "bugs": {
+    "url": "https://github.com/ekisler/tutorial/issues"
+  },
+  "homepage": "https://github.com/ekisler/tutorial#readme"
+}
