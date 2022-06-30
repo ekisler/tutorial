@@ -12,7 +12,7 @@
   },
   "author": "Emisael Kisler",
   "license": "ISC",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@ekisler" },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@ekisler/tutorial" },
   "bugs": {
     "url": "https://github.com/ekisler/tutorial/issues"
   },
